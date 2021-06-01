@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/ideapedyudi-jagoanartikel/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ideapedyudi-jagoanartikel/static/js/main.85413452.chunk.js",
-    "main.js.map": "/ideapedyudi-jagoanartikel/static/js/main.85413452.chunk.js.map",
-    "runtime-main.js": "/ideapedyudi-jagoanartikel/static/js/runtime-main.f9e1a9f7.js",
-    "runtime-main.js.map": "/ideapedyudi-jagoanartikel/static/js/runtime-main.f9e1a9f7.js.map",
-    "static/js/2.620ae363.chunk.js": "/ideapedyudi-jagoanartikel/static/js/2.620ae363.chunk.js",
-    "static/js/2.620ae363.chunk.js.map": "/ideapedyudi-jagoanartikel/static/js/2.620ae363.chunk.js.map",
-    "static/js/3.549d083b.chunk.js": "/ideapedyudi-jagoanartikel/static/js/3.549d083b.chunk.js",
-    "static/js/3.549d083b.chunk.js.map": "/ideapedyudi-jagoanartikel/static/js/3.549d083b.chunk.js.map",
+    "main.css": "/ideapedyudi-jagoanartikel/static/css/main.14c127e8.chunk.css",
+    "main.js": "/ideapedyudi-jagoanartikel/static/js/main.c4b4d8fe.chunk.js",
+    "main.js.map": "/ideapedyudi-jagoanartikel/static/js/main.c4b4d8fe.chunk.js.map",
+    "runtime-main.js": "/ideapedyudi-jagoanartikel/static/js/runtime-main.2b6842d2.js",
+    "runtime-main.js.map": "/ideapedyudi-jagoanartikel/static/js/runtime-main.2b6842d2.js.map",
+    "static/css/2.c5403167.chunk.css": "/ideapedyudi-jagoanartikel/static/css/2.c5403167.chunk.css",
+    "static/js/2.12513f55.chunk.js": "/ideapedyudi-jagoanartikel/static/js/2.12513f55.chunk.js",
+    "static/js/2.12513f55.chunk.js.map": "/ideapedyudi-jagoanartikel/static/js/2.12513f55.chunk.js.map",
+    "static/js/3.0206464d.chunk.js": "/ideapedyudi-jagoanartikel/static/js/3.0206464d.chunk.js",
+    "static/js/3.0206464d.chunk.js.map": "/ideapedyudi-jagoanartikel/static/js/3.0206464d.chunk.js.map",
     "index.html": "/ideapedyudi-jagoanartikel/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ideapedyudi-jagoanartikel/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.620ae363.chunk.js.LICENSE.txt": "/ideapedyudi-jagoanartikel/static/js/2.620ae363.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ideapedyudi-jagoanartikel/static/media/logo.6ce24c58.svg"
+    "static/css/2.c5403167.chunk.css.map": "/ideapedyudi-jagoanartikel/static/css/2.c5403167.chunk.css.map",
+    "static/css/main.14c127e8.chunk.css.map": "/ideapedyudi-jagoanartikel/static/css/main.14c127e8.chunk.css.map",
+    "static/js/2.12513f55.chunk.js.LICENSE.txt": "/ideapedyudi-jagoanartikel/static/js/2.12513f55.chunk.js.LICENSE.txt",
+    "static/media/list.f7ccdc38.svg": "/ideapedyudi-jagoanartikel/static/media/list.f7ccdc38.svg",
+    "static/media/write.6c55ae19.svg": "/ideapedyudi-jagoanartikel/static/media/write.6c55ae19.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9e1a9f7.js",
-    "static/js/2.620ae363.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.85413452.chunk.js"
+    "static/js/runtime-main.2b6842d2.js",
+    "static/css/2.c5403167.chunk.css",
+    "static/js/2.12513f55.chunk.js",
+    "static/css/main.14c127e8.chunk.css",
+    "static/js/main.c4b4d8fe.chunk.js"
   ]
 }
