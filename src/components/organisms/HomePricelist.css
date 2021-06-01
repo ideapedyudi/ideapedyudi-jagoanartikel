@@ -1,0 +1,35 @@
+
+.lihatpaket {
+    background-color: #FFC107;
+    border: none;
+}
+
+.lihatpaket:hover {
+    background-color: #30bd53;
+}
+
+.perkata {
+    color: rgb(17, 17, 17);
+}
+
+.check {
+    color: rgb(72, 72, 72);
+}
+
+.card:hover {   
+    box-shadow: 1px 1px 5px #888888;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+@media (max-width : 768px) {
+    .card {
+        width: 65% !important;
+    }
+
+    .card {
+        margin-left: 17%;
+    }
+}
