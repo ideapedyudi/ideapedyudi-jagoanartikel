@@ -8,8 +8,8 @@ export class HomeAccordion extends Component {
             <div className="mt-5">
                 <h3 className="mt-3" data-aos="fade-up"><center>Q & A</center></h3>
                 <div className="container mt-5">
-                    <Row>
-                        <Col className="mt-4" data-aos="fade-right" lg={6} md={6} sm={12}>
+                    <Row className="justify-content-center">
+                        <Col className="mt-4" data-aos="fade-right" lg={5} md={12} sm={12}>
                             <Accordion>
                                 <Card>
                                     <Accordion.Toggle as={Card.Header} eventKey="0">
@@ -55,7 +55,7 @@ Untuk Premium duplicate checker kami menggunakan Copyscape yang berbayar (premiu
                             </Accordion >
                         </Col>
 
-                        <Col className="mt-4" data-aos="fade-left" lg={6} md={6} sm={12}>
+                        <Col className="mt-4" data-aos="fade-left" lg={5} md={15} sm={12}>
                             <Accordion>
                                 <Card>
                                     <Accordion.Toggle as={Card.Header} eventKey="4">

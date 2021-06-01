@@ -11,8 +11,8 @@ export default function HomePricelist() {
         <div>
             <h3 className="mt-3" data-aos="fade-up"><center>Pricelist Artikel</center></h3>
             <Container className="col-center">
-                <Row className="justify-content-center row">
-                    <Col className="mt-4" data-aos="fade-up" lg={3} md={6} sm={12}>
+                <Row data-aos="fade-up" className="justify-content-center row">
+                    <Col className="mt-4" lg={3} md={6} sm={12}>
                         <Card className="mt-4 card" style={{ width: '95%' }}>
                             <Card.Title className="mt-4">Jago Artikel</Card.Title>
                             <Card.Img className="p-4" variant="top" src={Pricelist} />
@@ -30,7 +30,7 @@ export default function HomePricelist() {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col className="mt-4" data-aos="fade-up" lg={3} md={6} sm={12}>
+                    <Col className="mt-4" lg={3} md={6} sm={12}>
                         <Card style={{ width: '95%' }}>
                             <Card.Title className="mt-4">Jagoan Artikel</Card.Title>
                             <Card.Img className="p-4" variant="top" src={Pricelist} />
@@ -48,7 +48,7 @@ export default function HomePricelist() {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col className="mt-4" data-aos="fade-up" lg={3} md={6} sm={12}>
+                    <Col className="mt-4" lg={3} md={6} sm={12}>
                         <Card style={{ width: '95%' }}>
                             <Card.Title className="mt-4">Super Jagoan Artikel</Card.Title>
                             <Card.Img className="p-4" variant="top" src={Pricelist} />
@@ -68,7 +68,7 @@ export default function HomePricelist() {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col className="mt-4" data-aos="fade-up" lg={3} md={6} sm={12}>
+                    <Col className="mt-4" lg={3} md={6} sm={12}>
                         <Card style={{ width: '95%' }}>
                             <Card.Title className="mt-4">Hyper Jagoan Artikel</Card.Title>
                             <Card.Img className="p-4" variant="top" src={Pricelist} />

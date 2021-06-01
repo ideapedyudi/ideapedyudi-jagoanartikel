@@ -12,6 +12,7 @@ function App() {
       <JumbotronComponent />
       <Col3 />
       <HomePricelist />
+      <HomeAccordion />
     </div>
   );
 }

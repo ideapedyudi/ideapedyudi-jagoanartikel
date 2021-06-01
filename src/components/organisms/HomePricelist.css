@@ -1,3 +1,6 @@
+html {
+    overflow-x: hidden;
+}
 
 .lihatpaket {
     background-color: #FFC107;
@@ -26,10 +29,10 @@
 
 @media (max-width : 768px) {
     .card {
-        width: 65% !important;
+        width: 60% !important;
     }
 
     .card {
-        margin-left: 17%;
+        margin-left: 20%;
     }
 }
