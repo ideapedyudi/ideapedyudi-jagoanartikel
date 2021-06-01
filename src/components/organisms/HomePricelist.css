@@ -29,10 +29,10 @@ html {
 
 @media (max-width : 768px) {
     .card {
-        width: 60% !important;
+        width: 80% !important;
     }
 
     .card {
-        margin-left: 20%;
+        margin-left: 10%;
     }
 }
