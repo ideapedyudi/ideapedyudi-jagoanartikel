@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ideapedyudi-jagoanartikel/static/css/main.14c127e8.chunk.css",
-    "main.js": "/ideapedyudi-jagoanartikel/static/js/main.c4b4d8fe.chunk.js",
-    "main.js.map": "/ideapedyudi-jagoanartikel/static/js/main.c4b4d8fe.chunk.js.map",
+    "main.js": "/ideapedyudi-jagoanartikel/static/js/main.1c7fac74.chunk.js",
+    "main.js.map": "/ideapedyudi-jagoanartikel/static/js/main.1c7fac74.chunk.js.map",
     "runtime-main.js": "/ideapedyudi-jagoanartikel/static/js/runtime-main.2b6842d2.js",
     "runtime-main.js.map": "/ideapedyudi-jagoanartikel/static/js/runtime-main.2b6842d2.js.map",
     "static/css/2.c5403167.chunk.css": "/ideapedyudi-jagoanartikel/static/css/2.c5403167.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.c5403167.chunk.css",
     "static/js/2.12513f55.chunk.js",
     "static/css/main.14c127e8.chunk.css",
-    "static/js/main.c4b4d8fe.chunk.js"
+    "static/js/main.1c7fac74.chunk.js"
   ]
 }
